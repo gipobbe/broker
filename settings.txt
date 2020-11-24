@@ -1,1 +1,0 @@
-{ "settings" : { "url": "maqiatto.com", "port": "3883", "usr": "noitulove87@hotmail.com", "psw": "Eugenio1950", "top1": "noitulove87@hotmail.com/GNRasp/get", "top2": "noitulove87@hotmail.com/GNRasp/update", "top3": "noitulove87@hotmail.com/GNRasp/publish" }}
