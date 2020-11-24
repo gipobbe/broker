@@ -1,0 +1,1 @@
+{"state": {"Led1": "OFF",  "Led2": "OFF",  "Lamp1": "OFF",  "Lamp2":"OFF" }}
